@@ -2,8 +2,7 @@
 
 - 🌱 Atualmente estudando CSS, JavaScript
 - 🖥️ Fazendo faculdade na Ulbra Palmas
-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-py height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Gustavo-py height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
-          
+</div>
